@@ -1,0 +1,52 @@
+.fi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    width: 100px;
+}
+
+.pro{
+    padding-left: 300px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.but{
+    padding-right: 50px;
+}
+
+button{
+    width: 120px;
+    border: 1px rgb(49, 131, 209);
+    border-radius: 5px;
+    background-color: rgb(49, 131, 209);
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.not{
+  text-align: center;
+}
+
+h1{
+    border: white;
+    padding-left: 280px;
+    padding-right: 280px;
+    font-size: 70px;
+    margin: 50px;
+}
+
+p{
+    border: white;    
+    padding-right: 320px;
+    padding-left: 320px;
+    margin: 50px;
+}
